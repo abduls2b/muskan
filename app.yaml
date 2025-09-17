@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: muskan
+owner: abduls2b
+package: .
+scaling:
+  mode: single_concurrency
