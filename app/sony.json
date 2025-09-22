@@ -1,0 +1,173 @@
+{
+    "data": [
+     {
+           "id" : "2011671",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+           "channel_name": "Sony HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011671/SETHD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011740-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+           "channel_name": "Sony Marathi HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011740/SonyMarathi/master_3500.m3u8"
+     },
+     {
+           "id" : "2011670-b",
+           "group_title": "SonyLIV",
+           "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+           "channel_name": "Sony Max HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master_3500.m3u8"
+     },
+     {
+           "id" : "2011908-b",
+           "group_title": "SonyLIV",
+           "logo": "https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",
+           "channel_name": "Sony Max 2",
+           "url": "https://dish.slivcdn.com/hls/live/2011908/MAX2/master_3500.m3u8"
+     },
+     {
+           "id" : "2011741-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+           "channel_name": "Sony pal HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011748-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",
+           "channel_name": "Sony pix HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011748/PIXHD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011749-b",
+           "group_title": "SonyLIV",
+           "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",
+           "channel_name": "Sony SAB HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011749/SABHD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011745-b",
+           "group_title": "SonyLIV",
+           "logo": "https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",
+           "channel_name": "Sony Max SD",
+           "url": "https://dish.slivcdn.com/hls/live/2011745/SonyMaxSD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011747-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png",
+           "channel_name": "Sony sports ten 1 HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011739-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png",
+           "channel_name": "Sony sports ten 1 SD",
+           "url": "https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020434-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png",
+           "channel_name": "Sony sports ten 2 HD",
+           "url": "https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020590-b",
+           "group_title": "SonyLIV",
+           "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4xVoqKi4cdNkgGN4KoOIaVQ0wPiHwXR8vw&s",
+           "channel_name": "Sony sports ten 2 SD",
+           "url": "https://dish.slivcdn.com/hls/live/2020590/TEN2SD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020591-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png",
+           "channel_name": "Sony sports ten 3 HD",
+           "url": "https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020592-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png",
+           "channel_name": "Sony sports ten 3 SD",
+           "url": "https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020589-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
+           "channel_name": "Sony sports ten 4 HD",
+           "url": "https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8"
+     },
+     {
+           "id" : "2020437-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
+           "channel_name": "Sony sports ten 4 SD",
+           "url": "https://dish.slivcdn.com/hls/live/2020437/ten4sd/master_3500.m3u8"
+     },
+     {
+           "id" : "2020593-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/19_270.png",
+           "channel_name": "Sony sports ten 5 HD",
+           "url": "https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_3500.m3u8"
+     },
+     {
+           "id" : "2020594-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+           "channel_name": "Sony sports ten 5 SD",
+           "url": "https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011907-b",
+           "group_title": "SonyLIV",
+           "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8vIVlU68hZuJ04xQQRTFRla1RAv-sqXe9wA&s",
+           "channel_name": "Sony BBC earth HD",
+           "url": "https://dish.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8"
+     },
+
+     {
+           "id" : "2011906-b",
+           "group_title": "SonyLIV",
+           "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png",
+           "channel_name": "Sony WAH",
+           "url": "https://dish.slivcdn.com/hls/live/2011906/SonyWah/master_3500.m3u8"
+     },
+     {
+           "id" : "2011746-b",
+           "group_title": "SonyLIV",
+           "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY YAY.png",
+           "channel_name": "Sony Yay SD",
+           "url": "https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011641-b",
+           "group_title": "SonyLIV",
+           "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",
+           "channel_name": "Sony Aath SD",
+           "url": "https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011642-b",
+           "group_title": "SonyLIV",
+           "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c0/Sony_Six_HD.png/revision/latest/scale-to-width-down/250?cb=20211106103631",
+           "channel_name": "Sony SIX HD",
+           "url": "https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_3500.m3u8"
+     },
+     {
+           "id" : "2011643-b",
+           "group_title": "SonyLIV",
+           "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpYl7d-a6DzkevQMaOTxFvmpw2ddJ8Bqd_A&s",
+           "channel_name": "Sony SIX SD",
+           "url": "https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master_3500.m3u8"
+     }
+  ]
+}
