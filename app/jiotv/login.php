@@ -16,8 +16,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    $valid_username = "raman";
-    $valid_password = "raman1";
+    $valid_username = "abduls2b";
+    $valid_password = "Mahir00*";
 
     if ($username === $valid_username && $password === $valid_password) {
         $_SESSION['user'] = $username;
@@ -200,3 +200,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     });
 </script>
 </html>
+
