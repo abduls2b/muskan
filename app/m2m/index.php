@@ -4,8 +4,8 @@ set_time_limit(0);
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 /* ================== Configuration (edit if needed) ================== */
-const PORTAL = "http://jiotv.be/stalker_portal";
-const MAC = "00:1A:79:00:00:61";
+const PORTAL = "http://tv.fusion4k.cc/stalker_portal";
+const MAC = "00:1A:79:5D:E0:1E";
 const SESSION_FILE = __DIR__ . '/session.json';
 const CHANNELS_FILE = __DIR__ . '/raw_channels.json';
 const PROFILE_FILE = __DIR__ . '/profile_response.json';
