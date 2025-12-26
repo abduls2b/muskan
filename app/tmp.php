@@ -71,7 +71,6 @@ $handshake_params = [
     'JsHttpRequest' => '1-xml'
 ];
 
-system('cls');
 
 for ($i = 1; $i <= $no_of_scan; $i++) {
 	$mac_address = generateMacAddress();
