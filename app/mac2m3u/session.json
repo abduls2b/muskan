@@ -1,0 +1,17 @@
+{
+    "portal": "http:\/\/tv.fusion4k.cc\/stalker_portal\/c\/",
+    "mac": "00:1A:79:30:35:30",
+    "token": "A110DF868FBC198379E0220A24DFB7A8",
+    "cookie": "mac=00:1A:79:30:35:30; stb_lang=en; timezone=GMT; __cflb=0H28uvGLnXkbZ2UQZwfyB2AicxaXRXHqfWS2kHbkeyK; _cfuvid=z0Q2SEkCQDsJ3FpO1pJuxOiDfwYz01kqi5eMQe.4RO4-1766831052.8783672-1.0.1.1-Zz50fRyx_bZ5cloLYTNz.WxwgFUoKKbWn1JbjzcEJs0",
+    "headers": [
+        "User-Agent: Mozilla\/5.0 (QtEmbedded; U; Linux; C) AppleWebKit\/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari\/533.3",
+        "X-User-Agent: Model: MAG250; Link: WiFi",
+        "Referer: http:\/\/tv.fusion4k.cc\/stalker_portal\/c\/",
+        "Accept: *\/*",
+        "Connection: Keep-Alive",
+        "Accept-Encoding: gzip",
+        "Cookie: mac=00:1A:79:30:35:30; stb_lang=en; timezone=GMT; __cflb=0H28uvGLnXkbZ2UQZwfyB2AicxaXRXHqfWS2kHbkeyK; _cfuvid=z0Q2SEkCQDsJ3FpO1pJuxOiDfwYz01kqi5eMQe.4RO4-1766831052.8783672-1.0.1.1-Zz50fRyx_bZ5cloLYTNz.WxwgFUoKKbWn1JbjzcEJs0",
+        "Authorization: Bearer A110DF868FBC198379E0220A24DFB7A8"
+    ],
+    "fetched_at": 1766831053642
+}
