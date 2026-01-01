@@ -22,11 +22,9 @@ function getImageUrl($channel, $host) {
     $emptyReplacements = ['', ""];
     
     $logo = str_replace($imageExtensions, $emptyReplacements, $channel['logo']);
-    if (is_numeric($logo)) {
+    
         return 'http://' . $host . '/stalker_portal/misc/logos/320/' . $channel['logo'];
-    } else {
-        return "https://i.ibb.co/39Nz2wgJ/stalker.png";
-    }
+
 }
 
 $playlist_file = "$playlist_path/$host.m3u";
@@ -80,4 +78,5 @@ if (file_exists($playlist_file)) {
         echo 'Empty or invalid response from the server.';    
     }
 }
+
 ?>
