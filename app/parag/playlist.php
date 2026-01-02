@@ -33,8 +33,7 @@ if (file_exists($playlist_file)) {
     $playlistContent = file_get_contents($playlist_file);
     $playPath = str_replace("playlist.php", "", $currentScript);
     $playlistContent = preg_replace('/^(?!#).*\//m', "{$protocol}{$server}{$playPath}", $playlistContent);
-    header('Content-Type: audio/x-mpegurl');
-    header('Content-Disposition: inline; filename="playlist.m3u"');
+    
     echo $playlistContent;  
 } else {
     $Playlist_url = "http://$host/stalker_portal/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml";
@@ -70,8 +69,7 @@ if (file_exists($playlist_file)) {
             }
         }
         
-        header('Content-Type: audio/x-mpegurl');
-        header('Content-Disposition: inline; filename="playlist.m3u"');
+        
         echo $playlistContent;    
         file_put_contents("$playlist_path/$host.m3u", $playlistContent);
     } else {    
@@ -80,3 +78,4 @@ if (file_exists($playlist_file)) {
 }
 
 ?>
+
