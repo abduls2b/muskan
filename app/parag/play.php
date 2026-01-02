@@ -63,7 +63,7 @@ function executeCurl($url, $headers) {
 }
 
 $streamUrl = fetchStreamUrl($config, $channelId);
-echo $streamUrl;
-//header("Location: $streamUrl");
+header("Location: $streamUrl");
 exit;
+
 
