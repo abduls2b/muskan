@@ -176,7 +176,7 @@ setInterval(function() {
 <body>
 <div class="shaka-video-container" data-shaka-player>
   <video autoplay unmuted playsinline preload="metadata"></video>
-  <div class="watermark">StreamFlex</div>
+  <div class="watermark">Muskan</div>
   <button id="fullscreen-btn">⛶ Fullscreen</button>
   <div id="brightness-overlay"></div>
   <div id="gesture-feedback"></div>
